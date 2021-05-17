@@ -6,7 +6,7 @@ class Navbar extends React.Component{
     render(){
         return(
             
-                <div class="totalpage">
+                <div>
                <div class="mainclass">
                     <header class="headpart">
                             <div class="col1">
