@@ -6,7 +6,7 @@ class Features extends React.Component{
     render(){
         return(
             
-                <div class="totalpage">
+                <div>
                 <div class="mainclass">
                 <div class="middlepart">
                <div class="features">
