@@ -6,7 +6,7 @@ class Header extends React.Component{
     render(){
         return(
             
-                <div class="totalpage">
+                <div>
                 <div class="mainclass">
                <div class="firebox container-fluid">
                         <div class="header-background row ">
